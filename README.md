@@ -14,13 +14,6 @@
 
 If you find this project useful or interesting, please consider giving it a star on GitHub! Your support helps me keep this project updated and motivates me to work on more cool stuff.
 
----
-
-## 📸 Portfolio Preview
-
-![Portfolio Preview](./Images/live.png)
-
----
 
 ## 🚀 Features
 
@@ -48,8 +41,8 @@ Check out the demo: **[Click here](https://free-portfolio-aayush.vercel.app/)**
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: [hruthwik.krishnamurthy11@gmail.com@gmail.com](mailto:hruthwik.krishnamurthy11@gmail.com@gmail.com)
-- **LinkedIn**: [Hruthwik Krishnamurthy on LinkedIn](https://www.linkedin.com/in/hruthwik.krishnamurthy11@gmail.com/)
+- **Email**: [hruthwik.krishnamurthy11@gmail.com@gmail.com](mailto:hruthwik.krishnamurthy11@gmail.com)
+- **LinkedIn**: [Hruthwik Krishnamurthy on LinkedIn](https://www.linkedin.com/in/hruthwikk/)
 
 ---
 
